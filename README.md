@@ -12,7 +12,7 @@ Welcome to the VTuber Commission Music Video project! This is a platform where u
 
 ## Demo
 
-You can view a demo of the website here: [Demo Link](#) *(Replace with actual link if available)*.
+You can view a demo of the website here: [Demo Link](https://music-video-vtuber.vercel.app/).
 
 ## Installation
 
